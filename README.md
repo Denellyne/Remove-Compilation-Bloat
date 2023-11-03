@@ -1,2 +1,2 @@
 # Remove Compilation Bloat
- Removes all bloat from the compilation process 
+ Removes all bloat created by Visual Studio during compilation
